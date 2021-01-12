@@ -1,0 +1,5 @@
+userStarter=input("Hello! Let's start with your favourite starter?")
+userMain=input("What about your favourite main course?")
+userDessert=input("Please enter your favourite desert.")
+userDrink=input("We have a choice of soft drinks, wine and beer. What would you like?")
+print("Done! Your favourite meal is "+ userStarter + " , " + userMain + " and " + userDessert + " with a glass of " + userDrink + "! Great choice!" )
